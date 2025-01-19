@@ -39,6 +39,9 @@ Both implementations utilize linked lists to efficiently handle dynamic memory a
 **Father's Name**: Muhammad Razoom 
 **Program**: BSCS Evening, Section A
 
+### LinkedIn Profile
+[Hammad Razoom LinkedIn](https://www.linkedin.com/in/hammad-razoom-8a6b94347/)
+
 ### Submitted To
 Tajmir Khan
 
